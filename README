@@ -1,0 +1,26 @@
+# Entornos de Desarrollo – DAW (Decroly)
+
+Este repositorio tiene fines educativos y forma parte del seguimiento de mi progreso en el módulo Entornos de Desarrollo del ciclo formativo Desarrollo de Aplicaciones Web (DAW) en Decroly.
+
+## Objetivo del repositorio
+Registrar, versionar y documentar las prácticas, ejercicios y actividades desarrolladas durante el curso, aplicando metodologías de control de versiones con Git y GitHub.
+
+## Contenido
+- Actividades por unidades didácticas (UD)
+- Comparativas de plataformas de control de versiones
+- Pruebas con ramas y flujos de trabajo (main / develop)
+- Documentos, imágenes y archivos de referencia
+
+## Tecnologías y herramientas utilizadas
+- Git / GitHub  
+- SourceTree  
+- Visual Studio Code  
+- Markdown  
+- PDF / Word / Excel
+
+## Licencia
+Este proyecto se publica bajo la licencia MIT, permitiendo su uso libre con fines educativos o de aprendizaje, siempre reconociendo la autoría original.
+
+---
+
+© 2025 Francella Rojas C. – Proyecto académico de Entornos de Desarrollo (DAW1 – Decroly)
